@@ -16,7 +16,7 @@ Trustody is a multi-signature custody wallet for companies, funds, DAOs and any 
 
 Trustody runs on the [Internet Computer](https://internetcomputer.org). Wallet logic and approvals live in on-chain canisters, and transactions are signed with threshold cryptography, so there is no single private key to steal, lose or hand over.
 
-This repository is the public home for **bug reports and feedback**. Trustody's source code is not published here; the [Trustody relayer](https://github.com/TrustodyWallet/trustody-relayer), which you can run yourself, is open source.
+This repository is the public home for **bug reports and feedback**. It contains no source code.
 
 ## Features
 
@@ -27,7 +27,7 @@ This repository is the public home for **bug reports and feedback**. Trustody's 
 - **Transfer protection** — Recipient allowlists, a waiting period for newly added addresses and release delays for large payments.
 - **Recovery and emergency controls** — An admin backup (recovery phrase or hardware security key), emergency takeover with a waiting period, and instant freezing if a key or device may be compromised.
 - **Bitcoin done properly** — Fee suggestions, speed-up and cancel for stuck transactions, consolidation of small coins and a clear view of available, pending and sending balances.
-- **Relayers** — Transactions are broadcast by Trustody's relayer or by one you run yourself.
+- **Relayers** — Transactions are broadcast by Trustody's relayer or by one you run yourself from the published [relayer releases](https://github.com/TrustodyWallet/trustody-relayer/releases).
 - **Audit trail** — A tamper-evident, exportable record of every request, approval and settings change.
 
 ## Report a bug
