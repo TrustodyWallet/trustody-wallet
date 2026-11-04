@@ -4,7 +4,7 @@ This repository is the public place to report bugs and share feedback about [Tru
 
 ## Report a bug
 
-[Open a new issue](https://github.com/TrustodyWallet/feedback/issues/new) and include:
+[Open a new issue](https://github.com/TrustodyWallet/trustody-wallet/issues/new) and include:
 
 - What you did, what you expected, and what happened instead
 - The page or screen where it happened, and the exact error message if one was shown
@@ -12,7 +12,7 @@ This repository is the public place to report bugs and share feedback about [Tru
 - The network involved (Bitcoin, Ethereum, Tron, Internet Computer, …), if any
 - Screenshots, if they help
 
-Please search [existing issues](https://github.com/TrustodyWallet/feedback/issues) first and add to an existing one if it describes the same problem.
+Please search [existing issues](https://github.com/TrustodyWallet/trustody-wallet/issues) first and add to an existing one if it describes the same problem.
 
 ## Suggest a feature
 
