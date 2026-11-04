@@ -1,4 +1,9 @@
-<h1 align="center">Trustody</h1>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/trustody-logo-dark.svg">
+    <img src=".github/assets/trustody-logo.svg" alt="Trustody" height="56">
+  </picture>
+</h1>
 
 <p align="center">
   Multi-signature custody wallet for teams and businesses.<br/>
