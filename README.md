@@ -48,7 +48,9 @@ Please search [existing issues](https://github.com/TrustodyWallet/trustody-walle
 
 ## Never share secrets
 
-Issues are public. **Never post your recovery phrase, approval PIN, passkey or security key details, private keys, or anything else that could give access to a wallet.** Trustody staff will never ask for them. Wallet IDs, transaction hashes and public addresses are fine to share when they help.
+Issues are public.
+
+🚨 **Never post your recovery phrase, approval PIN, passkey or security key details, private keys, or anything else that could give access to a wallet.** Trustody staff will never ask for them. Wallet IDs, transaction hashes and public addresses are fine to share when they help.
 
 ## Security vulnerabilities
 
